@@ -1,0 +1,6 @@
+Class Notes
+* Data visualization needs to combine front end data presentation with back end data programming and mining.
+* Sometimes people would prefer reading old-school data presentation such as excel rather than visualized data.
+* People are visual, that’s why we need data visualization.
+* We need tabluea and Github for this class.
+* There is 7-8 projects need to be done in this class.
