@@ -4,3 +4,30 @@ Class Notes
 * People are visual, that’s why we need data visualization.
 * We need tabluea and Github for this class.
 * There is 7-8 projects need to be done in this class.
+
+Class Notes – Chapter 3-6
+Chapter 3 – Clutter is your enemy
+?	Clutters are visual elements that take up space but not increase understanding
+?	Consider Gestalt principle and visual perception (Proximity, Similarity, Enclosure, Closure, Continuity, Connection, Lack of visual order etc.)
+?	De-Cluttering: Step by step
+(1)	Remove chart border
+(2)	Remove gridlines
+(3)	Remove data markers
+(4)	Clean up axis labels
+(5)	Label data directly
+(6)	Leverage consistent colors
+
+Chapter 4 – Focus your audience attention
+?	Preattentive attributes (In charts, graphs)
+(1)	Size
+(2)	Color
+(3)	Position on Page
+Chapter 5 – Think like a designer
+?	Need to consider affordability, accessibility, aesthetics, in order to gain acceptance of audience
+?	Highlight the important stuff
+?	Eliminate distractions
+?	Create a clear visual hierarchy of information
+Chapter 6 – Dissecting model visuals
+?	Model visual 1: line graph
+?	Model visual 2: annotated line graph with forecast
+?	Model visual 3: 100% stacked bar
